@@ -12,4 +12,4 @@ The **Student Grade Calculator** is a Python-based application that allows teach
 
 ## Author
 
-- **Reyes Cuesta**: [Your Name](https://linkedin.com/reyescuesta)
+- **Reyes Cuesta**: [Reyes Cuesta Linkedin](https://linkedin.com/reyescuesta)
